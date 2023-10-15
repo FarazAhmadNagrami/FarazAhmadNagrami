@@ -1,5 +1,6 @@
-[![MasterHead](https://blog.sciencemuseum.org.uk/wp-content/uploads/2019/07/giphy-2.gif)](https://linkedin.com/in/faraz-ahmad18)
-<p align="left"> <a href="https://linkedin.com/in/faraz-ahmad18" target="blank"><img src="https://github.com/FarazAhmadNagrami/ImagesSVG/blob/main/code.gif?raw=true" alt="FarazAhmad"  </p>
+<p align="center"> <a href="https://linkedin.com/in/faraz-ahmad18" target="blank"><img src="https://github.com/FarazAhmadNagrami/ImagesSVG/blob/main/code.gif?raw=true" alt="FarazAhmad"  
+  width="600px" height = "600px" </p>
+
 <h1 align="center">Hi 👋, I'm Faraz</h1>
 <h3 align="center">A passionate Software Developer from India who loves solving complex problems.</h3>
 
