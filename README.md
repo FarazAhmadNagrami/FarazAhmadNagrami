@@ -197,13 +197,13 @@ const faraz = {
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   My best code runs on Samsung's & CommerceIQ's servers.   │
+│   My best code runs on Samsung's & CommerceIQ's servers.     │
 │                                                              │
-│   Private repos, NDA codebases, startup deadlines —         │
+│   Private repos, NDA codebases, startup deadlines —          │
 │   these don't show up as green squares.                      │
 │                                                              │
-│   40% faster queries. 90% time reductions. 25% cost cuts.  │
-│   That's what I ship. ✅                                     │
+│   40% faster queries. 90% time reductions. 25% cost cuts.    │
+│   That's what I ship. ✅                                    |
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
