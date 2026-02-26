@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FFF0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Shipping+100x+Faster+with+AI-Driven+Development;⚡+Java+%7C+Spring+Boot+%7C+React+%7C+AWS+%7C+GCP;🧠+Deep+Learning+%7C+MLOps+%7C+Data+Pipelines;💡+Real+Engineers+Ship+to+Production%2C+Not+Just+GitHub" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FFF0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Shipping+100x+Faster+with+AI-Driven+Development;⚡+Java+%7C+Spring+Boot+%7C+React+%7C+AWS+%7C+GCP;🧠+Deep+Learning+%7C+MLOps+%7C+Data+Pipelines;💡+Real+Engineers+Ship+to+Production%2C+Not+Just+GitHub](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FFF0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Shipping+100x+Faster+with+AI-Driven+Development;⚡+Java+%7C+Spring+Boot+%7C+React+%7C+AWS+%7C+GCP;🧠+Deep+Learning+%7C+MLOps+%7C+Data+Pipelines;💡+Real+Engineers+Ship+to+Production%2C+Not+Just+GitHub)" alt="Typing SVG" />
 </div>
 
 <br/>
