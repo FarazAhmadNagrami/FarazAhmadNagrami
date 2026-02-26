@@ -1,11 +1,11 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Faraz%20Ahmad&fontSize=80&color=0:00fff0,50:0066ff,100:7b2ff7&stroke=00fff0&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=Senior%20Full%20Stack%20Engineer%20%7C%20Startup%20Veteran%20%7C%20AI%20Era%20Builder&descSize=18&descAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Faraz%20Ahmad&fontSize=80&color=0:00fff0,50:0066ff,100:7b2ff7&stroke=00fff0&strokeWidth=2&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FFF0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Shipping+100x+Faster+with+AI-Driven+Development;⚡+Java+%7C+Spring+Boot+%7C+React+%7C+AWS+%7C+GCP;🧠+Deep+Learning+%7C+MLOps+%7C+Data+Pipelines;💡+Real+Engineers+Ship+to+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+Shipping+100x+Faster+with+AI-Driven+Development;⚡+Java+%7C+Spring+Boot+%7C+React+%7C+AWS+%7C+GCP;🧠+Deep+Learning+%7C+MLOps+%7C+Data+Pipelines;💡+Real+Engineers+Ship+to+Production" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -197,13 +197,13 @@ const faraz = {
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   My best code runs on Samsung's & CommerceIQ's servers.     │
+│   My best code runs on Samsung's & CommerceIQ's servers.    │
 │                                                              │
-│   Private repos, NDA codebases, startup deadlines —          │
+│   Private repos, NDA codebases, startup deadlines —         │
 │   these don't show up as green squares.                      │
 │                                                              │
-│   40% faster queries. 90% time reductions. 25% cost cuts.    │
-│   That's what I ship. ✅                                    |
+│   40% faster queries. 90% time reductions. 25% cost cuts.   │
+│   That's what I ship. ✅                                     │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
