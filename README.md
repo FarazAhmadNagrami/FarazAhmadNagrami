@@ -32,7 +32,7 @@
 name:      "Faraz Ahmad"
 role:      "Senior Full Stack Engineer"
 location:  "Bengaluru, Karnataka 🇮🇳"
-exp:       "3+ Years in Production Systems"
+exp:       "5+ Years in Production Systems"
 
 currently:
   working_at:  "🏢 Invictus (Samsung) — Bengaluru"
