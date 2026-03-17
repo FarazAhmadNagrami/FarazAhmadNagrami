@@ -35,7 +35,7 @@ location:  "Bengaluru, Karnataka 🇮🇳"
 exp:       "5+ Years in Production Systems"
 
 currently:
-  working_at:  "🏢 Invictus (Samsung) — Bengaluru"
+  working_at:  "🏢 Samsung (Invictus) — Bengaluru"
   doing:       "High-perf caching, GCP microservices, ML pipelines"
   learning:    "Deep Learning | IIT Kharagpur Specialization ✅"
 
@@ -123,7 +123,7 @@ fun_fact:    "My best code runs on Samsung's servers 😅"
 ## 📅 Career Timeline
 
 ```
-Jan 2024 – Present  │ 🏢 Invictus (Samsung) — Senior Software Engineer, Bengaluru
+Jan 2024 – Present  │ 🏢 Samsung (Invictus) — Senior Software Engineer, Bengaluru
                     │   → FeaturebaseDB + Python caching layer → 40% query performance gain
                     │   → Spring Boot microservices on GCP Compute Engine (Docker + K8s)
                     │   → Grafana monitoring → 60% faster critical issue detection
