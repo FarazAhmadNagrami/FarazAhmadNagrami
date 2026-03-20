@@ -32,7 +32,7 @@
 ```yaml
 name:      "Faraz Ahmad"
 role:      "Senior Full Stack Engineer"
-location:  "Bengaluru, Karnataka 🇮🇳"
+location:  "Bengaluru, Karnataka 🇮🇳" 
 exp:       "5+ Years in Production Systems"
 
 currently:
