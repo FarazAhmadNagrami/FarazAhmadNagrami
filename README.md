@@ -153,7 +153,7 @@ Aug 2018 – May 2022 │ 🎓 Galgotias University — B.Tech Software Engineer
 | Project | Stack | Highlight |
 |---------|-------|-----------|
 | 🤟 [Sign Language Detector](https://github.com/farazahmadnagrami) | `Python` `Keras` `TensorFlow` `OpenCV` `Tkinter` | Real-time Indian Sign Language recognition — **93.39% accuracy** with CNN + custom 1500+ image dataset |
----
+| 🤟 [Sign Language Detector](https://github.com/farazahmadnagrami) | `Python` `Keras` `TensorFlow` `OpenCV` `Tkinter` | Real-time Indian Sign Language recognition — **93.39% accuracy** with CNN + custom 1500+ image dataset |
 </div>
 
 ---
