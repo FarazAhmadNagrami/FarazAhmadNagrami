@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+Shipping+100x+Faster+with+AI-Driven+Development;⚡+Java+%7C+Spring+Boot+%7C+React+%7C+AWS+%7C+GCP;🧠+Deep+Learning+%7C+MLOps+%7C+Data+Pipelines;💡+Real+Engineers+Ship+to+Production" alt="Typing SVG" />
 </div>
 
-
 <br/>
 
 <!-- SOCIAL BADGES -->
