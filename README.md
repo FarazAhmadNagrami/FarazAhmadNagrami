@@ -155,6 +155,7 @@ Aug 2018 – May 2022 │ 🎓 Galgotias University — B.Tech Software Engineer
 |---------|-------|-----------|
 | 🤟 [Sign Language Detector](https://github.com/farazahmadnagrami) | `Python` `Keras` `TensorFlow` `OpenCV` `Tkinter` | Real-time Indian Sign Language recognition — **93.39% accuracy** with CNN + custom 1500+ image dataset |
 | 🤟 [Codelens](https://codelens-tohr.vercel.app/) | `Next.js` `Typescript` `D3` `Cytoscape` `GCP` | Interactive algorithm visualizer with **AI-powered** dry run explanations. |
+| 🤟 [medscansai](https://medscansai.vercel.app/) | `Next.js` `Typescript` `D3` `Cytoscape` `grok` `SSO` | Interactive medicine scanner with **AI-powered** explanations. |
 </div>
 
 ---
