@@ -9,7 +9,6 @@
 </div>
 
 <br/>
-
 <!-- SOCIAL BADGES -->
 <div align="center">
 
