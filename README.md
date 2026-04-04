@@ -40,7 +40,7 @@ currently:
 
 stack_philosophy: >
   Backend-first thinker who can own the full stack.
-  From Spring Boot microservices to React dashboards
+  From Spring Boot microservices to React and Nextjs dashboards
   to AWS/GCP cloud infra — I ship end-to-end.
 
 achievements:
