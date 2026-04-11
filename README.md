@@ -37,6 +37,7 @@ currently:
   doing:       "High-perf caching, GCP microservices, ML pipelines"
   learning:    "Deep Learning | IIT Kharagpur Specialization ✅"
 
+
 stack_philosophy: >
   Backend-first thinker who can own the full stack.
   From Spring Boot microservices to React and Nextjs dashboards
