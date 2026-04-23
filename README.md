@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Faraz%20Ahmad&fontSize=80&color=0:00fff0,50:0066ff,100:7b2ff7&stroke=00fff0&strokeWidth=2&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
-
 <!-- TYPING ANIMATION -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+Shipping+100x+Faster+with+AI-Driven+Development;⚡+Java+%7C+Spring+Boot+%7C+React+%7C+AWS+%7C+GCP;🧠+Deep+Learning+%7C+MLOps+%7C+Data+Pipelines;💡+Real+Engineers+Ship+to+Production" alt="Typing SVG" />
