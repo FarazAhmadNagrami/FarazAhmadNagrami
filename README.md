@@ -18,6 +18,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=farazahmadnagrami&style=for-the-badge&color=00fff0&label=PROFILE+VIEWS)](https://github.com/farazahmadnagrami)
 
 </div>
+
 ---
 <!-- ABOUT ME -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360px"/>
